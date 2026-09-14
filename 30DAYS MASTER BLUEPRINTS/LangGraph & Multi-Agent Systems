@@ -1,4 +1,4 @@
-## **30-Day Master Blueprint: LangGraph & Multi-Agent Systems (2026 Production Standard)**
+# **30-Day Master Blueprint: LangGraph & Multi-Agent Systems (2026 Production Standard)**
 
 > ### ⚡ THE BUILDER'S OATH
 > *"We do not build toy prompt wrappers. We do not ship non-deterministic, un-checkpointed chains to production. In 2026, enterprise software demands deterministic control over non-deterministic intelligence. We build fault-tolerant, cyclic, stateful multi-agent distributed systems that can pause for human judgment, recover from infrastructure faults, time-travel across execution histories, and autonomously execute mission-critical operations. Code is leverage. State is truth. Ship or stay behind."*
